@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bruno.sapalacio
-- 👀 I’m interested in HTML, CSS E JS
+- 👀 I’m interested in HTML, CSS e JS
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me bruno2014mineiro@gmail.com
 
