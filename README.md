@@ -14,7 +14,9 @@
 
 :outbox_tray: 2022 Goals: create a new project and find a new job.
 
- 
+## Languages and Tools
+[![BrunoSapalacio GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosapalacio&theme=codeSTACKr&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosapalacio&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## About me
 
