@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm Front-End Developer!<br>🏡 I’m from Brazil.<br>📚 I’m currently learning JavaScript, CSS3, SASS, HTML5 and ReactJS.<br>📤 2023 Goals: create a new project and find a new job.
+💻 I'm Front-End Developer [CORPBRASIL](https://corpbrasil.com/)<br>🏡 I’m from Brazil.<br>📚 I’m currently learning JavaScript, CSS3, SASS, HTML5 and ReactJS.<br>📤 2024 Goals: keep improving myself.
 
 
 ## 🌐 Socials:
