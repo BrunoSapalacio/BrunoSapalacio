@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  👨‍💻 Front-End Developer at <a href="https://corpbrasil.com/" target="_blank">CORPBRASIL</a> <br>
+  👨‍💻 Developer Web<br>
   🌍 Based in <strong>Brazil</strong> <br>
   ⚡ Passionate about creating modern web applications with <strong>Next.js</strong>, <strong>React</strong>, <strong>TypeScript</strong> and <strong>TailwindCSS</strong>. <br>
   🎯 2026 Goal: Grow as a developer by building real products and contributing to impactful projects.
